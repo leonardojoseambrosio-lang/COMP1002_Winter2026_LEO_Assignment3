@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: white;
+    color: black;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+button,
+input {
+    margin-top: 10px;
+    padding: 8px 12px;
+}
+
+.dark-mode {
+    background-color: #222;
+    color: white;
+}
